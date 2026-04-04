@@ -1,4 +1,4 @@
-[![AWS Cloud Practitioner](./aws-cloud-practitioner-150px.png)](https://www.credly.com/badges/d4db8802-409b-48da-bf65-be36222da22a/public_url) [![AWS Well-Architected Proficient](./well-architected-proficient-150px.png)](https://www.credly.com/badges/1e9f20cc-0319-4096-98ab-3e8383827814/public_url) [![Sololearn C++](./cppi-150px.png)](https://www.sololearn.com/certificates/CC-HQLL11OA) [![Sololearn SQL](./sqli-150px.png)](https://www.sololearn.com/certificates/CC-5W1SOU0Y)
+[![REACT](./react-150px.png)](https://app.rs.school/certificate/vxu1m22k) [![AWS Cloud Practitioner](./aws-cloud-practitioner-150px.png)](https://www.credly.com/badges/d4db8802-409b-48da-bf65-be36222da22a/public_url) [![AWS Well-Architected Proficient](./well-architected-proficient-150px.png)](https://www.credly.com/badges/1e9f20cc-0319-4096-98ab-3e8383827814/public_url) [![Sololearn C++](./cppi-150px.png)](https://www.sololearn.com/certificates/CC-HQLL11OA) [![Sololearn SQL](./sqli-150px.png)](https://www.sololearn.com/certificates/CC-5W1SOU0Y)
 
 <!---
 - 👋 Hi, I’m @Val-d-emar
